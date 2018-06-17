@@ -1,2 +1,2 @@
 # Java8-Programs
-This repository contains programs based on the Java 8 Specification.
+This repository will contain programs based on the Java 8 Specification.
